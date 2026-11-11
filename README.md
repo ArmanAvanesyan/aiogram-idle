@@ -1,3 +1,5 @@
+> **Repository migrated:** Active development and independent `aiogram-idle` releases now live in [aiogram-kit](https://github.com/ArmanAvanesyan/aiogram-kit/tree/main/packages/aiogram-idle). Historical PRs, releases and assets remain here. See the [migration map](https://armanavanesyan.github.io/aiogram-kit/legacy-links/).
+
 # aiogram-idle
 
 Standalone inactivity policies for aiogram 3, with typed session/activity contracts and memory or optional Redis storage. Add Continue/Cancel questions or quiet cleanup to ordinary handlers and FSM conversations without adopting a navigation framework.
